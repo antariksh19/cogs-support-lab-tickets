@@ -2,7 +2,7 @@
 
 **Priority:** P2-High
 **Status:** Closed / Resolved
-**Live GitHub Issue:** [[ MFA SMS OTP not delivered](https://github.com/antariksh19/cogs-support-lab-tickets/issues/1)]
+**Live GitHub Issue:** [ MFA SMS OTP not delivered](https://github.com/antariksh19/cogs-support-lab-tickets/issues/1)
 
 ## Original Issue Description
 Customer reports 25 users in the finance branch are unable to receive SMS OTPs for gateway login. The issue began at 08:00 system time.
